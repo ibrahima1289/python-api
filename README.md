@@ -1,4 +1,5 @@
 ## API-Powered Applications
+[![python-api](https://github.com/ibrahima1289/python-api/actions/workflows/python-app.yml/badge.svg)](https://github.com/ibrahima1289/python-api/actions/workflows/python-app.yml)<br>
 This project is for learning and practicing APIs integration and Flask. See sources linked below.<br>
 We are building Flask web applications with a user interfaces:
 * An AI-powered chatbot with ChatGPT `gpt-3.5-turbo` model
@@ -91,7 +92,7 @@ Here is how to get the `requirements.txt` file.
 4. You can also test the **YouTube Transcribe**<br>
 * Go on YouTube and get a valid URL
 
-<img src="images/api9.PNG" width=60% height=60%>
+<!-- <img src="images/api9.PNG" width=60% height=60%> -->
 
 * Paste the URL in the form - you can get to the form by clicking the button `YouTube Transcribe`.
 
@@ -137,3 +138,4 @@ Make sure you clean up your system, the **YouTube Transcribe** app will download
 7. Fask app [testing-1](https://flask.palletsprojects.com/en/2.2.x/testing/) | [testing-2](https://tedboy.github.io/flask/flask_doc.testing.html) | [testing-3](https://dev.to/po5i/how-to-add-basic-unit-test-to-a-python-flask-app-using-pytest-1m7a) | [Jenkins-Pytest](https://behainguyen.wordpress.com/2023/01/28/ci-cd-01-jenkins-manually-clone-a-python-github-repo-and-run-pytest/) | [Github-Action Pytest](https://medium.com/globant/how-to-add-a-basic-unit-test-to-a-python-flask-app-using-pytest-79e61da76fc2)
 8. [iamnearlythere.com](https://iamnearlythere.com/)
 9. [EC2 ami locator](https://cloud-images.ubuntu.com/locator/ec2/)
+10. [Dockerfile Linter](https://hadolint.github.io/hadolint/)
