@@ -139,4 +139,3 @@ Make sure you clean up your system, the **YouTube Transcribe** app will download
 8. [iamnearlythere.com](https://iamnearlythere.com/)
 9. [EC2 ami locator](https://cloud-images.ubuntu.com/locator/ec2/)
 10. [Dockerfile Linter](https://hadolint.github.io/hadolint/)
-
